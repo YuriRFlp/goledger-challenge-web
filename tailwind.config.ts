@@ -11,6 +11,12 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        green: "var(--green)",
+        greenOpacity: "var(--greenOpacity)",
+        darkGray: "var(--darkGray)",
+        lightGray: "var(--lightGray)",
+        mediumGray: "var(--mediumGray)",
+        black: "var(--black)",
       },
     },
   },
