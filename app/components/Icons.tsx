@@ -1,0 +1,33 @@
+import {
+  X,
+  ChevronLeft,
+  ChevronRight,
+  Trash2,
+  EyeIcon,
+  Music,
+  User,
+  ListMusic,
+  DiscAlbum,
+  Plus,
+  Save,
+  CheckCircle,
+  Loader,
+  Search,
+} from "lucide-react";
+
+export const Icons = {
+  close: X,
+  chevronLeft: ChevronLeft,
+  chevronRight: ChevronRight,
+  trash: Trash2,
+  eye: EyeIcon,
+  song: Music,
+  artist: User,
+  playlist: ListMusic,
+  album: DiscAlbum,
+  plus: Plus,
+  save: Save,
+  check: CheckCircle,
+  loader: Loader,
+  search: Search,
+}
